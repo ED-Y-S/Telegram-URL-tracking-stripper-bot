@@ -1,0 +1,2 @@
+python-telegram-bot[socks]==20.a1
+requests
